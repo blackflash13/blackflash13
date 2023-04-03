@@ -2,10 +2,9 @@
 
 ## 🚀 About Me
 
-I am Vladyslav Labenskyi, a **Back-End Web Developer** (specializing in **Node.js applications**).
+I am Vladyslav Labenskyi, a **Full Stack Developer**.
 
-Software engineer with a focus on back-end developing. I have experience with Node.js, PHP and with React.js. Have
-experience with microservices and monolith architectures.
+Software engineer with a focus on back-end developing. I have experience with Node.js, React.js. Have experience with microservices and monolith architectures.
 I'm a self-motivated and results-oriented developer with a deep passion for the job. I have the energy to learn new
 things and a strong motivation to create new software solution and scale excisting.
 
