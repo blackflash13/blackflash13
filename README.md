@@ -4,9 +4,7 @@
 
 I am Vladyslav Labenskyi, a **Full Stack Developer**.
 
-Software engineer with a focus on back-end developing. I have experience with Node.js, React.js. Have experience with microservices and monolith architectures.
-I'm a self-motivated and results-oriented developer with a deep passion for the job. I have the energy to learn new
-things and a strong motivation to create new software solution and scale excisting.
+I'm a Software Developer equally adept at backend and frontend development. Equipped with a diverse and promising skill set. Proficient in multiple platforms, languages and embedded systems. Able to effectively self-manage independent projects as well as work as part of a productive team. My primary goal as an engineer is to quickly find efficient and straightforward solutions to meet business needs.
 
 ## 🛠️ Skills
 
