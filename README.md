@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-I am Vladyslav Labenskyi, a **Full Stack Developer**.
+I am Vladyslav Labenskyi, a **Software Engineer**.
 
-I'm a Software Developer equally adept at backend and frontend development. Equipped with a diverse and promising skill set. Proficient in multiple platforms, languages and embedded systems. Able to effectively self-manage independent projects as well as work as part of a productive team. My primary goal as an engineer is to quickly find efficient and straightforward solutions to meet business needs.
+I'm a equally adept at backend and frontend development. Equipped with a diverse and promising skill set. Proficient in multiple platforms, languages and embedded systems. Able to effectively self-manage independent projects as well as work as part of a productive team. My primary goal as an engineer is to quickly find efficient and straightforward solutions to meet business needs.
 
 ## 🛠️ Skills
 
